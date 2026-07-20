@@ -1,0 +1,146 @@
+{
+  "slug": "swiftui-is-one-graph-over-40-years-of-engineering",
+  "title": "SwiftUI Is One Graph, Over 40+ Years of Engineering",
+  "date": "2026-07-20T14:28:16.967Z",
+  "sourceUrl": "https://aleahim.com/blog/swiftui-is-one-graph/",
+  "targetLang": "zh",
+  "extraction": {
+    "selected": {
+      "source": "readability",
+      "score": 1124,
+      "metrics": {
+        "chars": 19355,
+        "paragraphs": 49,
+        "headings": 8,
+        "codeFences": 0,
+        "images": 3,
+        "htmlFigures": 10,
+        "inlineSvgs": 3,
+        "score": 1124
+      },
+      "url": "https://aleahim.com/blog/swiftui-is-one-graph/"
+    },
+    "qualityGate": {
+      "minChars": 400,
+      "minParagraphs": 3,
+      "minHeadings": 1
+    },
+    "candidates": [
+      {
+        "source": "readability",
+        "score": 1124,
+        "metrics": {
+          "chars": 19355,
+          "paragraphs": 49,
+          "headings": 8,
+          "codeFences": 0,
+          "images": 3,
+          "htmlFigures": 10,
+          "inlineSvgs": 3,
+          "score": 1124
+        },
+        "url": "https://aleahim.com/blog/swiftui-is-one-graph/"
+      },
+      {
+        "source": "variant-readability",
+        "score": 1124,
+        "metrics": {
+          "chars": 19355,
+          "paragraphs": 49,
+          "headings": 8,
+          "codeFences": 0,
+          "images": 3,
+          "htmlFigures": 10,
+          "inlineSvgs": 3,
+          "score": 1124
+        },
+        "url": "https://aleahim.com/blog/swiftui-is-one-graph/?output=1"
+      },
+      {
+        "source": "variant-readability",
+        "score": 1124,
+        "metrics": {
+          "chars": 19355,
+          "paragraphs": 49,
+          "headings": 8,
+          "codeFences": 0,
+          "images": 3,
+          "htmlFigures": 10,
+          "inlineSvgs": 3,
+          "score": 1124
+        },
+        "url": "https://aleahim.com/blog/swiftui-is-one-graph/?amp=1"
+      },
+      {
+        "source": "variant-readability",
+        "score": 1124,
+        "metrics": {
+          "chars": 19355,
+          "paragraphs": 49,
+          "headings": 8,
+          "codeFences": 0,
+          "images": 3,
+          "htmlFigures": 10,
+          "inlineSvgs": 3,
+          "score": 1124
+        },
+        "url": "https://aleahim.com/blog/swiftui-is-one-graph/?print=1"
+      },
+      {
+        "source": "variant-readability",
+        "score": 1124,
+        "metrics": {
+          "chars": 19355,
+          "paragraphs": 49,
+          "headings": 8,
+          "codeFences": 0,
+          "images": 3,
+          "htmlFigures": 10,
+          "inlineSvgs": 3,
+          "score": 1124
+        },
+        "url": "https://aleahim.com/blog/swiftui-is-one-graph/?view=amp"
+      }
+    ]
+  },
+  "inlineSvgPlaceholders": 3,
+  "translationProfile": {
+    "mode": "auto",
+    "audience": "general",
+    "style": "conversational",
+    "steps": [
+      "auto-analyze",
+      "translate"
+    ],
+    "executionMode": "refined",
+    "autoProfile": {
+      "requestedMode": "auto",
+      "topic": "life",
+      "confidence": 0.76,
+      "resolved": {
+        "mode": "refined",
+        "style": "conversational",
+        "audience": "general",
+        "chunkThreshold": 4000,
+        "chunkMaxWords": 5000,
+        "glossary": []
+      },
+      "metrics": {
+        "words": 1502,
+        "codeBlocks": 0,
+        "tableRows": 0,
+        "headings": 5,
+        "links": 4,
+        "businessHits": 1,
+        "lifeHits": 4,
+        "isLong": false,
+        "isVeryLong": false,
+        "isTechnical": false
+      },
+      "reasons": [
+        "公开发布默认使用 refined 流程，优先质量与稳定性",
+        "生活叙事关键词命中较高，判定为 life"
+      ]
+    }
+  }
+}

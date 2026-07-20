@@ -1,0 +1,99 @@
+{
+  "selected": {
+    "source": "readability",
+    "score": 1124,
+    "metrics": {
+      "chars": 19355,
+      "paragraphs": 49,
+      "headings": 8,
+      "codeFences": 0,
+      "images": 3,
+      "htmlFigures": 10,
+      "inlineSvgs": 3,
+      "score": 1124
+    },
+    "url": "https://aleahim.com/blog/swiftui-is-one-graph/"
+  },
+  "qualityGate": {
+    "minChars": 400,
+    "minParagraphs": 3,
+    "minHeadings": 1
+  },
+  "candidates": [
+    {
+      "source": "readability",
+      "score": 1124,
+      "metrics": {
+        "chars": 19355,
+        "paragraphs": 49,
+        "headings": 8,
+        "codeFences": 0,
+        "images": 3,
+        "htmlFigures": 10,
+        "inlineSvgs": 3,
+        "score": 1124
+      },
+      "url": "https://aleahim.com/blog/swiftui-is-one-graph/"
+    },
+    {
+      "source": "variant-readability",
+      "score": 1124,
+      "metrics": {
+        "chars": 19355,
+        "paragraphs": 49,
+        "headings": 8,
+        "codeFences": 0,
+        "images": 3,
+        "htmlFigures": 10,
+        "inlineSvgs": 3,
+        "score": 1124
+      },
+      "url": "https://aleahim.com/blog/swiftui-is-one-graph/?output=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 1124,
+      "metrics": {
+        "chars": 19355,
+        "paragraphs": 49,
+        "headings": 8,
+        "codeFences": 0,
+        "images": 3,
+        "htmlFigures": 10,
+        "inlineSvgs": 3,
+        "score": 1124
+      },
+      "url": "https://aleahim.com/blog/swiftui-is-one-graph/?amp=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 1124,
+      "metrics": {
+        "chars": 19355,
+        "paragraphs": 49,
+        "headings": 8,
+        "codeFences": 0,
+        "images": 3,
+        "htmlFigures": 10,
+        "inlineSvgs": 3,
+        "score": 1124
+      },
+      "url": "https://aleahim.com/blog/swiftui-is-one-graph/?print=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 1124,
+      "metrics": {
+        "chars": 19355,
+        "paragraphs": 49,
+        "headings": 8,
+        "codeFences": 0,
+        "images": 3,
+        "htmlFigures": 10,
+        "inlineSvgs": 3,
+        "score": 1124
+      },
+      "url": "https://aleahim.com/blog/swiftui-is-one-graph/?view=amp"
+    }
+  ]
+}
