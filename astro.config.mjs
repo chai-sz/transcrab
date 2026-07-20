@@ -1,7 +1,8 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'http://localhost:4321',
+  base: '/transcrab/',
+  site: 'https://chai-sz.github.io',
   output: 'static',
   markdown: {
     shikiConfig: {
