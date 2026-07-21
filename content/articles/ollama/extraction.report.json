@@ -1,0 +1,99 @@
+{
+  "selected": {
+    "source": "readability",
+    "score": 541,
+    "metrics": {
+      "chars": 10179,
+      "paragraphs": 44,
+      "headings": 9,
+      "codeFences": 7,
+      "images": 0,
+      "htmlFigures": 0,
+      "inlineSvgs": 0,
+      "score": 541
+    },
+    "url": "https://nshipster.com/ollama/"
+  },
+  "qualityGate": {
+    "minChars": 400,
+    "minParagraphs": 3,
+    "minHeadings": 1
+  },
+  "candidates": [
+    {
+      "source": "readability",
+      "score": 541,
+      "metrics": {
+        "chars": 10179,
+        "paragraphs": 44,
+        "headings": 9,
+        "codeFences": 7,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 541
+      },
+      "url": "https://nshipster.com/ollama/"
+    },
+    {
+      "source": "variant-readability",
+      "score": 541,
+      "metrics": {
+        "chars": 10179,
+        "paragraphs": 44,
+        "headings": 9,
+        "codeFences": 7,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 541
+      },
+      "url": "https://nshipster.com/ollama/?output=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 541,
+      "metrics": {
+        "chars": 10179,
+        "paragraphs": 44,
+        "headings": 9,
+        "codeFences": 7,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 541
+      },
+      "url": "https://nshipster.com/ollama/?amp=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 541,
+      "metrics": {
+        "chars": 10179,
+        "paragraphs": 44,
+        "headings": 9,
+        "codeFences": 7,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 541
+      },
+      "url": "https://nshipster.com/ollama/?print=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 541,
+      "metrics": {
+        "chars": 10179,
+        "paragraphs": 44,
+        "headings": 9,
+        "codeFences": 7,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 541
+      },
+      "url": "https://nshipster.com/ollama/?view=amp"
+    }
+  ]
+}
