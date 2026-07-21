@@ -1,0 +1,77 @@
+{
+  "profile": {
+    "mode": "auto",
+    "audience": "general",
+    "style": "conversational",
+    "chunkThreshold": 4000,
+    "chunkMaxWords": 5000,
+    "glossary": []
+  },
+  "configuredProfile": {
+    "mode": "auto",
+    "audience": "general",
+    "style": "storytelling",
+    "chunkThreshold": 4000,
+    "chunkMaxWords": 5000,
+    "glossary": []
+  },
+  "autoProfile": {
+    "requestedMode": "auto",
+    "topic": "life",
+    "confidence": 0.76,
+    "resolved": {
+      "mode": "refined",
+      "style": "conversational",
+      "audience": "general",
+      "chunkThreshold": 4000,
+      "chunkMaxWords": 5000,
+      "glossary": []
+    },
+    "metrics": {
+      "words": 1509,
+      "codeBlocks": 0,
+      "tableRows": 0,
+      "headings": 14,
+      "links": 0,
+      "businessHits": 2,
+      "lifeHits": 3,
+      "isLong": false,
+      "isVeryLong": false,
+      "isTechnical": false
+    },
+    "reasons": [
+      "公开发布默认使用 refined 流程，优先质量与稳定性",
+      "生活叙事关键词命中较高，判定为 life"
+    ]
+  },
+  "steps": [
+    "auto-analyze",
+    "translate"
+  ],
+  "executionMode": "refined",
+  "executionSteps": [
+    "analyze",
+    "translate",
+    "review",
+    "revise"
+  ],
+  "artifacts": {
+    "analysis": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/01-analysis.md",
+    "assembledPrompt": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/02-prompt.md",
+    "draft": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/03-draft.md",
+    "critique": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/04-critique.md",
+    "revision": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/05-revision.md",
+    "final": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/translation.md"
+  },
+  "promptPath": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/translate.prompt.txt",
+  "promptCompatPath": "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/translate.zh.prompt.txt",
+  "createdFiles": [
+    "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/02-prompt.md",
+    "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/01-analysis.md",
+    "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/03-draft.md",
+    "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/04-critique.md",
+    "/Users/chaisz/Projects/transcrab-private/content/articles/10-ai-skills-so-powerful-they-feel-illegal-install-now/05-revision.md"
+  ],
+  "configPath": "/Users/chaisz/Projects/transcrab-private/transcrab.translate.config.json",
+  "loadedFromFile": true
+}
