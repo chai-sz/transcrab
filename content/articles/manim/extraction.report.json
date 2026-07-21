@@ -1,0 +1,99 @@
+{
+  "selected": {
+    "source": "readability",
+    "score": 474,
+    "metrics": {
+      "chars": 10908,
+      "paragraphs": 32,
+      "headings": 11,
+      "codeFences": 9,
+      "images": 0,
+      "htmlFigures": 0,
+      "inlineSvgs": 0,
+      "score": 474
+    },
+    "url": "https://nshipster.com/manim/"
+  },
+  "qualityGate": {
+    "minChars": 400,
+    "minParagraphs": 3,
+    "minHeadings": 1
+  },
+  "candidates": [
+    {
+      "source": "readability",
+      "score": 474,
+      "metrics": {
+        "chars": 10908,
+        "paragraphs": 32,
+        "headings": 11,
+        "codeFences": 9,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 474
+      },
+      "url": "https://nshipster.com/manim/"
+    },
+    {
+      "source": "variant-readability",
+      "score": 474,
+      "metrics": {
+        "chars": 10908,
+        "paragraphs": 32,
+        "headings": 11,
+        "codeFences": 9,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 474
+      },
+      "url": "https://nshipster.com/manim/?output=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 474,
+      "metrics": {
+        "chars": 10908,
+        "paragraphs": 32,
+        "headings": 11,
+        "codeFences": 9,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 474
+      },
+      "url": "https://nshipster.com/manim/?amp=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 474,
+      "metrics": {
+        "chars": 10908,
+        "paragraphs": 32,
+        "headings": 11,
+        "codeFences": 9,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 474
+      },
+      "url": "https://nshipster.com/manim/?print=1"
+    },
+    {
+      "source": "variant-readability",
+      "score": 474,
+      "metrics": {
+        "chars": 10908,
+        "paragraphs": 32,
+        "headings": 11,
+        "codeFences": 9,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 474
+      },
+      "url": "https://nshipster.com/manim/?view=amp"
+    }
+  ]
+}

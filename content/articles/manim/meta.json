@@ -1,0 +1,146 @@
+{
+  "slug": "manim",
+  "title": "Manim",
+  "date": "2026-07-21T13:01:02.706Z",
+  "sourceUrl": "https://nshipster.com/manim/",
+  "targetLang": "zh",
+  "extraction": {
+    "selected": {
+      "source": "readability",
+      "score": 474,
+      "metrics": {
+        "chars": 10908,
+        "paragraphs": 32,
+        "headings": 11,
+        "codeFences": 9,
+        "images": 0,
+        "htmlFigures": 0,
+        "inlineSvgs": 0,
+        "score": 474
+      },
+      "url": "https://nshipster.com/manim/"
+    },
+    "qualityGate": {
+      "minChars": 400,
+      "minParagraphs": 3,
+      "minHeadings": 1
+    },
+    "candidates": [
+      {
+        "source": "readability",
+        "score": 474,
+        "metrics": {
+          "chars": 10908,
+          "paragraphs": 32,
+          "headings": 11,
+          "codeFences": 9,
+          "images": 0,
+          "htmlFigures": 0,
+          "inlineSvgs": 0,
+          "score": 474
+        },
+        "url": "https://nshipster.com/manim/"
+      },
+      {
+        "source": "variant-readability",
+        "score": 474,
+        "metrics": {
+          "chars": 10908,
+          "paragraphs": 32,
+          "headings": 11,
+          "codeFences": 9,
+          "images": 0,
+          "htmlFigures": 0,
+          "inlineSvgs": 0,
+          "score": 474
+        },
+        "url": "https://nshipster.com/manim/?output=1"
+      },
+      {
+        "source": "variant-readability",
+        "score": 474,
+        "metrics": {
+          "chars": 10908,
+          "paragraphs": 32,
+          "headings": 11,
+          "codeFences": 9,
+          "images": 0,
+          "htmlFigures": 0,
+          "inlineSvgs": 0,
+          "score": 474
+        },
+        "url": "https://nshipster.com/manim/?amp=1"
+      },
+      {
+        "source": "variant-readability",
+        "score": 474,
+        "metrics": {
+          "chars": 10908,
+          "paragraphs": 32,
+          "headings": 11,
+          "codeFences": 9,
+          "images": 0,
+          "htmlFigures": 0,
+          "inlineSvgs": 0,
+          "score": 474
+        },
+        "url": "https://nshipster.com/manim/?print=1"
+      },
+      {
+        "source": "variant-readability",
+        "score": 474,
+        "metrics": {
+          "chars": 10908,
+          "paragraphs": 32,
+          "headings": 11,
+          "codeFences": 9,
+          "images": 0,
+          "htmlFigures": 0,
+          "inlineSvgs": 0,
+          "score": 474
+        },
+        "url": "https://nshipster.com/manim/?view=amp"
+      }
+    ]
+  },
+  "inlineSvgPlaceholders": 0,
+  "translationProfile": {
+    "mode": "auto",
+    "audience": "technical",
+    "style": "technical",
+    "steps": [
+      "auto-analyze",
+      "translate"
+    ],
+    "executionMode": "refined",
+    "autoProfile": {
+      "requestedMode": "auto",
+      "topic": "technology",
+      "confidence": 0.88,
+      "resolved": {
+        "mode": "refined",
+        "style": "technical",
+        "audience": "technical",
+        "chunkThreshold": 4000,
+        "chunkMaxWords": 5000,
+        "glossary": []
+      },
+      "metrics": {
+        "words": 1368,
+        "codeBlocks": 9,
+        "tableRows": 0,
+        "headings": 11,
+        "links": 20,
+        "businessHits": 1,
+        "lifeHits": 2,
+        "isLong": false,
+        "isVeryLong": false,
+        "isTechnical": true
+      },
+      "reasons": [
+        "公开发布默认使用 refined 流程，优先质量与稳定性",
+        "检测到代码块或表格，判定为技术主题"
+      ]
+    }
+  }
+}
